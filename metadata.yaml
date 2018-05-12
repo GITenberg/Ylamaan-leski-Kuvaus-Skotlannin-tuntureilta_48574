@@ -1,9 +1,13 @@
 _repo: Ylamaan-leski-Kuvaus-Skotlannin-tuntureilta_48574
+_version: 0.1.0
 contributor:
   translator:
     agent_name: Hämeen-Anttila, Väinö
     gutenberg_agent_id: '43032'
     url: http://www.gutenberg.org/2009/agents/43032
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Scott, Walter
@@ -18,6 +22,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/59
     wikipedia: http://en.wikipedia.org/wiki/Walter_Scott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/48574#Ylamaan-leski-Kuvaus-Skotlannin-tuntureilta
 gutenberg_issued: '2015-03-24'
 gutenberg_type: Text
 identifiers:
